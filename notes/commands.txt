@@ -1,4 +1,3 @@
-```txt
 pwd - show current working directory
 ls - list files and folders
 cd - change directory
