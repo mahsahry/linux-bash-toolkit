@@ -1,0 +1,21 @@
+```txt
+pwd - show current working directory
+ls - list files and folders
+cd - change directory
+mkdir - create a new directory
+cp - copy files or directories
+mv - move or rename files or directories
+rm - remove files
+cat - print file content
+less - view file content page by page
+head - show first lines of a file
+tail - show last lines of a file
+touch - create an empty file
+rmdir - remove an empty directory
+ls -l - long listing format
+ls -a - show hidden files
+cd .. - go to parent directory
+cd ~ - go to home directory
+cp source target - copy one file to another location
+mv oldname newname - rename a file
+tail -n 20 file.txt - show last 20 lines
